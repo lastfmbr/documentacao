@@ -4,7 +4,7 @@ description: >-
   soluções para este problema.
 ---
 
-# Scrobbles não estão contando
+# 🟢 Scrobbles não estão contando
 
 {% hint style="info" %}
 Antes de entrar em contato com a equipe do Last.fm, certifique-se de ter ido no [Twitter de status do Last.fm](https://twitter.com/lastfmstatus) para saber o que está acontecendo no momento. Você também pode pedir ajuda em nosso [servidor do Discord](https://discord.gg/dNUcWVaTSb).
