@@ -10,9 +10,13 @@ description: >-
 Antes de entrar em contato com a equipe do Last.fm, certifique-se de ter ido no [Twitter de status do Last.fm](https://twitter.com/lastfmstatus) para saber o que está acontecendo no momento. Você também pode pedir ajuda em nosso [servidor do Discord](https://discord.gg/dNUcWVaTSb).
 {% endhint %}
 
+***
+
 ### Desinstale e reinstale o aplicativo do Last.fm <a href="#desinstale-e-reinstale-o-aplicativo-do-last.fm" id="desinstale-e-reinstale-o-aplicativo-do-last.fm"></a>
 
 Se você utiliza algum desses [aplicativos oficiais do Last.fm](https://www.last.fm/pt/about/trackmymusic) e o scrobble continuar falhando na contagem de novos scrobbles, é recomendado que reinstale o aplicativo.
+
+***
 
 ### Desconecte e reconecte sua conta do Spotify no Last.fm <a href="#desconecte-e-reconecte-sua-conta-do-spotify-no-last.fm" id="desconecte-e-reconecte-sua-conta-do-spotify-no-last.fm"></a>
 
