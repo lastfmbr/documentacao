@@ -7,7 +7,7 @@ description: >-
 # 🟢 Importar Streams no Last.fm
 
 {% hint style="danger" %}
-Importar seus scrobbles aniquilará (quase) completamente seus relatórios de músicas ouvidas do Last.fm, embora isso não seja tão assustador quanto parece. Isso significa que sua média diária de scrobble aumentará quanto mais você importar. Algumas pessoas gostam de receber dados precisos sobre seus hábitos de escuta (por exemplo, a data exata em que cada música foi transmitida). Se você é uma dessas pessoas, não continue.
+**Importar seus scrobbles fará com que os seus relatórios (diário, semanal e anual) fiquem imprecisos.** Algumas pessoas gostam de receber dados precisos sobre seus hábitos de escuta (por exemplo, a data exata em que cada música foi transmitida). Se você é uma dessas pessoas, não continue.
 {% endhint %}
 
 {% hint style="info" %}
