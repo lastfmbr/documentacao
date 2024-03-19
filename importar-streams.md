@@ -6,6 +6,10 @@ description: >-
 
 # 🟡 Importar Streams no Last.fm
 
+{% hint style="warning" %}
+Algumas informações neste guia estão em falta. Se preferir, vá até o nosso [Discord](https://dc.gg/lastfm) para pedir ajuda.
+{% endhint %}
+
 {% hint style="danger" %}
 **Importar seus scrobbles fará com que os seus relatórios (diário, semanal e anual) fiquem imprecisos.** Algumas pessoas gostam de receber dados precisos sobre seus hábitos de escuta (por exemplo, a data exata em que cada música foi transmitida). Se você é uma dessas pessoas, não continue.
 {% endhint %}
