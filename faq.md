@@ -45,6 +45,8 @@ Sim! Se você tem um profundo conhecimento sobre Last.fm, você poderá editar e
 
 Para facilitar, encontre o botão [<img src=".gitbook/assets/github-icon.png" alt="" data-size="line"> **Edit on GitHub**](https://github.com/lastfmbr/documentacao) ao lado da página que deseja adicionar. [Atente-se às regras](https://github.com/lastfmbr/.github/tree/main/profile/README.md).
 
+<img src=".gitbook/assets/chrome_hhRjzZ3x87.png" alt="" data-size="original">
+
 </details>
 
 [^1]: "Scrobblar" é o mesmo que **escutar**. Esta é a forma que a plataforma usa para se direcionar as contagens de faixas.
