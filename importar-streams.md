@@ -25,7 +25,7 @@ Este guia foi criado por [comicxans](https://www.last.fm/user/comicxans) e tradu
 ### Spotify
 
 1. Envie um email para o [privacy@spotify.com](mailto:privacy@spotify.com) entitulado **Requesting a Copy of My Extended Streaming History**. Tenha certeza de que está enviando este email pelo mesmo email que você utiliza no Spotify.
-2. Copie e cole o modelo abaixo no corpo do email e substitua tudo o que está nos colchetes com informações corretas:\
+2. Copie e cole o modelo abaixo no corpo do email e substitua tudo o que está nos colchetes[^1] com informações corretas:\
    \
    _Hello! I would like to download a copy of my extended streaming history. For verification purposes, I’m using a **\[marca, modelo e versão do sistema operacional de qualquer dispositivo que você usa com o Spotify]** and a song I’ve recently saved to my library is **\[nome da musica e de quem é]**. Thanks!_\
 
@@ -92,3 +92,5 @@ Os passos a seguir são essenciais para você não acabar duplicando acidentalme
 8. Na aba menu, clique em "**Open from disk**"
 
 <figure><img src=".gitbook/assets/chrome_4WR0JRZe6x.png" alt="" width="251"><figcaption></figcaption></figure>
+
+[^1]: Colchetes são estes parênteses: **\[ ]**
