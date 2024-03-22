@@ -30,4 +30,4 @@ Se você utiliza o Last.fm para rastrear suas músicas escutadas diretamente no 
 
 Geralmente, desconectar e reconectar sua conta do Spotify diretamente no site do Last.fm ajuda a resolver problemas de scrobbles. Basta ir em [Configurações](https://www.last.fm/pt/settings) > [Aplicações](https://www.last.fm/pt/settings/applications) > procure a aplicação "Em scrobble no Spotify" > clique em "Desconectar".
 
-{% embed url="https://drive.google.com/file/d/1WqQu9_Kbi-SFu2-hoqjON8nO0Dh59eQx/view?usp=drive_link" %}
+{% embed url="https://filemoon.sx/e/2qs5aoeyp8nn" %}
