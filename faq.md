@@ -49,4 +49,14 @@ Para facilitar, encontre o botão [<img src=".gitbook/assets/github-icon.png" al
 
 </details>
 
+<details>
+
+<summary>É possível editar o perfil do artista no Last.fm?</summary>
+
+Sim! Ao visitar um perfil artístico no Last.fm, você consegue editar e adicionar quaisquer informações, como a foto de perfil, capa de álbuns e singles, o "sobre mim" do artista, e entre outros, seguindo as [Diretrizes da Comunidade Last.fm](https://www.last.fm/pt/help/guidelines).
+
+Há situações em que o Last.fm simplesmente tranca o perfil do artista. Isso significa que a plataforma removeu as permissões de editar e adicionar informações no perfil do artista devido à questões de moderação.
+
+</details>
+
 [^1]: "Scrobblar" é o mesmo que **escutar**. Esta é a forma que a plataforma usa para se direcionar as contagens de faixas.
