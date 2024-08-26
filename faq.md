@@ -2,6 +2,7 @@
 description: >-
   Solucione suas dúvidas em relação ao nosso servidor do Discord e plataforma do
   Last.fm.
+icon: comments-question-check
 ---
 
 # FAQ

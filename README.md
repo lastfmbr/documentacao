@@ -2,6 +2,7 @@
 description: >-
   Site da comunidade Last.fm Brasil para fins de tradução de guias do Last.fm e
   relacionados.
+icon: book
 layout:
   title:
     visible: true

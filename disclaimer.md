@@ -1,5 +1,6 @@
 ---
 description: Avisos importantes em relação ao Last.fm Brasil.
+icon: triangle-exclamation
 ---
 
 # Disclaimer
