@@ -1,8 +1,8 @@
 ---
+icon: book
 description: >-
   Site da comunidade Last.fm Brasil para fins de tradução de guias do Last.fm e
   relacionados.
-icon: book
 layout:
   title:
     visible: true
@@ -30,8 +30,8 @@ Neste site, você encontrará conteúdos relacionados à plataforma Last.fm e o 
 
 Dúvidas com alguma coisa relacionada ao Last.fm ou a nossa comunidade? Visite a página abaixo.
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
+{% content-ref url="faq/" %}
+[faq](faq/)
 {% endcontent-ref %}
 
 ***

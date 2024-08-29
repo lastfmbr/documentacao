@@ -2,7 +2,7 @@
 
 * [Documentação](README.md)
 * [Verificação](verificacao.md)
-* [FAQ](faq.md)
+* [FAQ](faq/README.md)
+  * [🟡 Importar streams no Last.fm](faq/importar-streams.md)
+  * [🟢 Scrobbles não estão contando](faq/scrobbles-nao-estao-contando.md)
 * [Disclaimer](disclaimer.md)
-* [🟡 Importar streams no Last.fm](importar-streams.md)
-* [🟢 Scrobbles não estão contando](scrobbles-nao-estao-contando.md)

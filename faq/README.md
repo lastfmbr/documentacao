@@ -1,8 +1,8 @@
 ---
+icon: comments-question-check
 description: >-
   Solucione suas dúvidas em relação ao nosso servidor do Discord e plataforma do
   Last.fm.
-icon: comments-question-check
 ---
 
 # FAQ
@@ -44,9 +44,9 @@ Basta enviar o [link do seu perfil](https://www.last.fm/user/\_) ou nome de usu�
 
 Sim! Se você tem um profundo conhecimento sobre Last.fm, você poderá editar e adicionar páginas no site através do nosso [repositório no GitHub](https://github.com/lastfmbr/documentacao).
 
-Para facilitar, encontre o botão [<img src=".gitbook/assets/github-icon.png" alt="" data-size="line"> **Edit on GitHub**](https://github.com/lastfmbr/documentacao) ao lado da página que deseja editar. [Atente-se às regras](https://github.com/lastfmbr/.github/tree/main/profile/README.md).
+Para facilitar, encontre o botão [<img src="../.gitbook/assets/github-icon.png" alt="" data-size="line"> **Edit on GitHub**](https://github.com/lastfmbr/documentacao) ao lado da página que deseja editar. [Atente-se às regras](https://github.com/lastfmbr/.github/tree/main/profile/README.md).
 
-<img src=".gitbook/assets/chrome_hhRjzZ3x87.png" alt="" data-size="original">
+<img src="../.gitbook/assets/chrome_hhRjzZ3x87.png" alt="" data-size="original">
 
 </details>
 
@@ -56,7 +56,7 @@ Para facilitar, encontre o botão [<img src=".gitbook/assets/github-icon.png" al
 
 Sim! Ao visitar um perfil artístico no Last.fm, você consegue editar e adicionar quaisquer informações, como a foto de perfil, capa de álbuns e singles, o "sobre mim" do artista, e entre outros, seguindo as [Diretrizes da Comunidade Last.fm](https://www.last.fm/pt/help/guidelines).
 
-<img src=".gitbook/assets/chrome_y4NvjB44op.png" alt="" data-size="original">
+<img src="../.gitbook/assets/chrome_y4NvjB44op.png" alt="" data-size="original">
 
 Há situações em que o Last.fm simplesmente tranca o perfil do artista. Isso significa que a plataforma removeu as permissões de editar e adicionar informações no perfil do artista devido à questões de moderação.
 

@@ -4,7 +4,7 @@ description: >-
   sua conta do Last.fm
 ---
 
-# 🟡 Importar Streams no Last.fm
+# 🟡 Importar streams no Last.fm
 
 {% hint style="warning" %}
 Algumas informações neste guia estão em falta. Se preferir, vá até o nosso [Discord](https://dc.gg/lastfm) para pedir ajuda.
@@ -34,11 +34,11 @@ Este guia foi criado por [comicxans](https://www.last.fm/user/comicxans) e tradu
 
 Este é o email que você **não deverá receber** se você seguir as instruções corretamente:
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Este é o email correto que você deverá encontrar na sua caixa de entrada assim que seus dados forem finalizados:
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Apple Music
 
@@ -86,11 +86,11 @@ Os passos a seguir são essenciais para você não acabar duplicando acidentalme
 5. Entre no seu [perfil do Last.fm](https://www.last.fm/pt/user/\_) e vá até [scrobbles](https://www.last.fm/pt/user/\_/library/artists).
 6. Vá até a última página e identifique a primeira música que você scrobblou.
 
-<figure><img src=".gitbook/assets/chrome_S3keVzqAKE.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chrome_S3keVzqAKE.png" alt="" width="375"><figcaption></figcaption></figure>
 
 7. Entre no site [jsoneditoronline.org](https://jsoneditoronline.org) para remover as músicas do arquivo que você não precisa para scrobblar novamente.
 8. Na aba menu, clique em "**Open from disk**"
 
-<figure><img src=".gitbook/assets/chrome_4WR0JRZe6x.png" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chrome_4WR0JRZe6x.png" alt="" width="251"><figcaption></figcaption></figure>
 
 [^1]: Colchetes são estes parênteses: **\[ ]**
