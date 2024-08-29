@@ -1,9 +1,11 @@
 ---
-description: Avisos importantes em relação ao Last.fm Brasil.
 icon: triangle-exclamation
+description: Avisos importantes em relação ao Last.fm Brasil.
 ---
 
 # Disclaimer
+
+***
 
 Como dito na página principal do site, **não temos vínculo algum com a plataforma Last.fm, CBS Interactive ou Paramount Global**. Somos apenas usuários do Last.fm e contribuímos apenas com uma boa exploração da plataforma, como na criação de uma comunidade brasileira do Discord e guias de suporte.
 
